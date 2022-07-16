@@ -1,5 +1,5 @@
 # Imageglass Themes
-Themes for the open-source image viewer [ImageGlass](https://github.com/d2phap/ImageGlass)
+Themes for the image viewer [ImageGlass](https://github.com/d2phap/ImageGlass)
 
 [![License: GNUv3](https://img.shields.io/badge/License-GNU-brightgreen.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
 
