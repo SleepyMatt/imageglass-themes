@@ -25,13 +25,13 @@
     "ToolbarTextColor": "#D8DEE9",
     "ToolbarItemHoverColor": "#434C5E",
     "ToolbarItemActiveColor": "#1a1d23",
-    "ToolbarItemSelectedColor": "#81a1c1",
+    "ToolbarItemSelectedColor": "#1a1d23",
 
     "GalleryBgColor": "#2E3440",
     "GalleryTextColor": "#D8DEE9",
     "GalleryItemHoverColor": "#434C5E",
     "GalleryItemActiveColor": "#1a1d23",
-    "GalleryItemSelectedColor": "#81a1c1",
+    "GalleryItemSelectedColor": "#1a1d23",
 
     "MenuBgColor": "#2E3440",
     "MenuBgHoverColor": "#434C5E",

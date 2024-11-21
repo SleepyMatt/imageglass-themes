@@ -12,9 +12,9 @@
       menubackgroundhovercolor="#434C5E"
       menutextcolor="#D8DEE9"
       menutexthovercolor="#D8DEE9"
-      accentcolor="#5E81AC"
-      accentlightcolor="#5E81AC" 
-      accentdarkcolor="#5E81AC" 
+      accentcolor="#"
+      accentlightcolor="#4c566a" 
+      accentdarkcolor="#434c5e" 
       logo="logo.svg"
       isshowtitlebarlogo="true"
       isdarkmode="true" />
