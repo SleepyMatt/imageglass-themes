@@ -1,0 +1,83 @@
+{
+  "_Metadata": {
+    "Description": "ImageGlass theme configuration file",
+    "Version": "9.0"
+  },
+  "Info": {
+    "Name": "Nord Theme (Dark)",
+    "Author": "Sleepy Matt.",
+    "Email": "sleepymatt0@gmail.com",
+    "Website": "https://www.nordtheme.com",
+    "Description": "An arctic, north-bluish color palette. ImageGlass Nord Theme (Dark) - Based on Nord Colors. | Icon Pack Vectors by Vecteezy (https://www.vecteezy.com/free-vector/icon-pack)",
+    "Version": "2.0"
+  },
+  "Settings": {
+    "IsDarkMode": true,
+    "NavButtonLeft": "ViewPreviousImage.svg",
+    "NavButtonRight": "ViewNextImage.svg",
+    "PreviewImage": "preview.jpg"
+  },
+    "Colors": {
+    "TextColor": "#D8DEE9",
+    "BgColor": "#2E3440",
+
+    "ToolbarBgColor": "#2E3440",
+    "ToolbarTextColor": "#D8DEE9",
+    "ToolbarItemHoverColor": "#434C5E",
+    "ToolbarItemActiveColor": "#1a1d23",
+    "ToolbarItemSelectedColor": "#81a1c1",
+
+    "GalleryBgColor": "#2E3440",
+    "GalleryTextColor": "#D8DEE9",
+    "GalleryItemHoverColor": "#434C5E",
+    "GalleryItemActiveColor": "#1a1d23",
+    "GalleryItemSelectedColor": "#81a1c1",
+
+    "MenuBgColor": "#2E3440",
+    "MenuBgHoverColor": "#434C5E",
+    "MenuTextColor": "#D8DEE9",
+    "MenuTextHoverColor": "#000000",
+
+    "NavigationButtonColor": "#88c0d0"
+  },
+  "ToolbarIcons": {
+    "ActualSize": "ActualSize.svg",
+    "AutoZoom": "AutoZoom.svg",
+    "Bookmarks": "Bookmarks.svg",
+    "Checkerboard": "Checkerboard.svg",
+    "ColorPicker": "ColorPicker.svg",
+    "Crop": "Crop.svg",
+    "Delete": "Delete.svg",
+    "Edit": "Edit.svg",
+    "Exit": "Exit.svg",
+    "Export": "Export.svg",
+    "FlipHorz": "FlipHorz.svg",
+    "FlipVert": "FlipVert.svg",
+    "FullScreen": "FullScreen.svg",
+    "Gallery": "Gallery.svg",
+    "GoToImage": "GoToImage.svg",
+    "LockZoom": "LockZoom.svg",
+    "MainMenu": "MainMenu.svg",
+    "OpenFile": "OpenFile.svg",
+    "Pause": "Pause.svg",
+    "Play": "Play.svg",
+    "Print": "Print.svg",
+    "Refresh": "Refresh.svg",
+    "RotateLeft": "RotateLeft.svg",
+    "RotateRight": "RotateRight.svg",
+    "Save": "Save.svg",
+    "ScaleToFill": "ScaleToFill.svg",
+    "ScaleToFit": "ScaleToFit.svg",
+    "ScaleToHeight": "ScaleToHeight.svg",
+    "ScaleToWidth": "ScaleToWidth.svg",
+    "Settings": "Settings.svg",
+    "Slideshow": "Slideshow.svg",
+    "ViewFirstImage": "ViewFirstImage.svg",
+    "ViewLastImage": "ViewLastImage.svg",
+    "ViewNextImage": "ViewNextImage.svg",
+    "ViewPreviousImage": "ViewPreviousImage.svg",
+    "WindowFit": "WindowFit.svg",
+    "ZoomIn": "ZoomIn.svg",
+    "ZoomOut": "ZoomOut.svg"
+  }
+}

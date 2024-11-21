@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+	<title>ActualSize</title>
+	<defs>
+		<image  width="240" height="232" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPAAAADoBAMAAAAj/nRXAAAAAXNSR0IB2cksfwAAACFQTFRFAAAA////////////////////////////////////////zyHr+QAAAAt0Uk5TADiAdRIacP/pJTUFcU5HAAAArklEQVR4nO3dMQ2AQBAEQC4k1I8TRKCBGhlYQQNa8IASQs9Xl5BQ/Gy5ye1IuIgydplEOatuvq/URtdPR7QHD2sW3qpuz8MLGAwGg8FgMBgMBoPBYDAYDAaDwWAwGAwGg8FgMBgMBoPBYDAYDAaDwWAwGAwGg8FgMBgMBoPBYDAYDAaDwWAwGAwGg8FgMBgMBoPBYDAYDAaDwWAwGAwGg8FgMPgFt/dK6zc4d/FdHv1MnRYEJ297AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Capa 4" href="#img1" x="7" y="11"/>
+</svg>
