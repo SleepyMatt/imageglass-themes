@@ -7,5 +7,3 @@ Themes for the image viewer [ImageGlass](https://github.com/d2phap/ImageGlass)
 Based on the [nord palette](https://github.com/arcticicestudio/nord)
 
 [Download Nord **(Dark)**](https://imageglass.org/theme/Nord-Theme-Dark-SleepyMatt-47)
-
--Download Nord (Light) (***I haven't done the light one my bad guys 💀***)
